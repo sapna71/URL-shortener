@@ -1,5 +1,4 @@
 # URL-shortener
-# URL Shortener
 
 A scalable URL shortening service built with **FastAPI**, **PostgreSQL**, and **Redis**. The application generates short, unique URLs for long links and supports redirection, analytics, caching, and high-performance URL lookups.
 
